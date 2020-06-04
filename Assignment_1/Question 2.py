@@ -1,4 +1,4 @@
-#To display a vertically flipped frame after ‘n’ vertically upright frames, from live webcam feed.
+#To display horizontally flipped frame alternatively, from live webcam feed.
 import cv2 
 cap = cv2.VideoCapture(0)
 counter=0
