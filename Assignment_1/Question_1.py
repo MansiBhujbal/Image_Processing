@@ -13,5 +13,5 @@ while True :
     else :
         cv2.imshow('Image',frame)
 
-        if cv2.waitKey(2000) & 0xFF == ord('q') :
+    if cv2.waitKey(1000) & 0xFF == ord('q') :
             break 
