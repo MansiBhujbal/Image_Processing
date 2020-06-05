@@ -1,3 +1,4 @@
+#Q1.Strike off an image using image.shape and drawing tools.
 import cv2 
 img = cv2.imread('Flower.jpeg')
 print(img.shape) #gives us size of image 
